@@ -1,4 +1,4 @@
-t-distributed Stochastic Neighbor Embedding (t-SNE)
+#t-distributed Stochastic Neighbor Embedding (t-SNE)
 
 It is a tool to visualize high-dimensional data. It converts similarities between data points to joint probabilities and tries to minimize the distance between low-dimensional embedding and the high-dimensional data. t-SNE tries to keep neighborhood point as close as possible and non-neighborhood point as far away from possible. Used for dimensionality reduction applications (unsupervised learning).
 
@@ -11,5 +11,5 @@ Note: When the value of perplexity is small, suppose 3, then only 3 neighborhood
 Website: https://distill.pub/2016/misread-tsne/
 
 
-# MNIST dataset can be downloaded from Kaggle : 
+MNIST dataset can be downloaded from Kaggle : 
 https://www.kaggle.com/c/digit-recognizer/data

@@ -9,3 +9,7 @@ Step size: number of iterations. At every iteration, the algorithm tries to reac
 Note: When the value of perplexity is small, suppose 3, then only 3 neighborhood point distance is preserved in a low dimensional space. For a stable result, you must choose multiple perplexity values where perplexity is less than the number of data points and also run the algorithm for longer times.
 
 Website: https://distill.pub/2016/misread-tsne/
+
+
+# MNIST dataset can be downloaded from Kaggle : 
+https://www.kaggle.com/c/digit-recognizer/data
